@@ -2,6 +2,8 @@
 
 # pko-t5
 
+PAUST 계정에 접근이 안되어 이 계정으로 이관했습니다.
+
 [Blog](https://paust-studio.notion.site/pre-trained-T5-7072a7049e184eb6998b04e588b226e0)
 
 pko-t5 는 한국어 전용 데이터로 학습한 [T5 v1.1](https://github.com/google-research/text-to-text-transfer-transformer/blob/84f8bcc14b5f2c03de51bd3587609ba8f6bbd1cd/released_checkpoints.md)입니다.
