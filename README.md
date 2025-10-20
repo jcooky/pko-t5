@@ -1,6 +1,6 @@
 [ENGLISH](README_en.md)
 
-PAUST 계정에 접근이 안되어 이 계정으로 이관했습니다.
+PAUST 계정에 접근이 안되어 이 계정으로 바꿨습니다.
 
 # pko-t5
 
