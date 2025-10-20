@@ -1,8 +1,8 @@
 [ENGLISH](README_en.md)
 
-# pko-t5
-
 PAUST 계정에 접근이 안되어 이 계정으로 이관했습니다.
+
+# pko-t5
 
 [Blog](https://paust-studio.notion.site/pre-trained-T5-7072a7049e184eb6998b04e588b226e0)
 
